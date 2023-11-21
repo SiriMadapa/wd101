@@ -1,35 +1,34 @@
-body {
-    background-color: aliceblue;
+.body {
+    background-color:#FFC0CB ;
 }
-
-h1 {
-    margin: 4px;
+.h1 {
+    margin: 5px;
 }
 
 .container {
-    max-width: 70%;
+    max-width: 80%;
     margin: auto;
     text-align: center;
 }
 
 .parts {
     margin: auto;
-    margin-top: 10px;
-    border: 1px solid;
-    padding: 2%;
+    margin-top: 15px;
+    border: 2px solid;
+    padding: 5%;
     background-color: rgb(235, 240, 244);
 }
 
 
 
 .table {
-    border: 2px solid;
-    margin:10px ;
+    border: 4px solid;
+    margin:16px ;
 }
 
 .bord {
-    border: 1px solid;
-    padding: 1px;
+    border: 2px solid;
+    padding: 2px;
 }
 
 .float {
@@ -47,7 +46,7 @@ h1 {
     text-align:left;
     background-color: rgb(4, 213, 144);
 }
-div{
+.div{
     text-align: center;
     text-indent: 1%;
 }
